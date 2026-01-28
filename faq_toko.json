@@ -1,0 +1,57 @@
+{
+  "faq": [
+    {
+      "tag": "cara_order",
+      "keywords": [
+        "cara order",
+        "cara pesan",
+        "pesan lewat apa",
+        "order lewat apa",
+        "beli lewat mana",
+        "cara beli di Toko jersey Adi Sports Bot"
+      ],
+      "answer": "Kamu bisa order di Toko jersey Adi Sports Bot melalui:\n• Tokopedia\n• Shopee\n• WhatsApp: 082324952825\n• Datang langsung ke toko kami di Karanganyar."
+    },
+    {
+      "tag": "jam_operasional",
+      "keywords": [
+        "jam buka",
+        "jam operasional",
+        "buka jam berapa",
+        "tutup jam berapa",
+        "jam kerja toko"
+      ],
+      "answer": "Toko Komputer Toko jersey Adi Sports Bot buka setiap hari dari jam 09.00 sampai jam 21.00 WIB."
+    },
+    {
+      "tag": "produk",
+      "keywords": [
+        "jual apa saja",
+        "produk yang dijual",
+        "ada laptop",
+        "jual laptop",
+        "alat jaringan",
+        "hardware komputer"
+      ],
+      "answer": "Kami menyediakan custom, sablon, nama jersey, nomor punggung, dan perlengkapan olahraga lainnya."
+    },
+    {
+      "tag": "alamat",
+      "keywords": [
+        "alamat toko",
+        "lokasi toko",
+        "alamat Toko jersey Adi Sports"
+      ],
+      "answer": "Toko jersey Adi Sports berlokasi di Karanganyar, Kabupaten Tegal, Jawa Tengah."
+    }
+  ],
+  "bad_words": [
+    "anjing",
+    "bangsat",
+    "kirik",
+    "kontol",
+    "memek",
+    "admin anjing",
+    "dasar lu bangsat"
+  ]
+}
